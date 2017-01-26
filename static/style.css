@@ -1,1 +1,10 @@
-//Add your styling here
+.product {
+	border: 3px;
+	margin: 3px;
+	background-color: red;
+	position: relative;
+	width:200px;
+	height: 200px;
+
+
+}
